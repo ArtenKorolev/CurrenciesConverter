@@ -1,3 +1,2 @@
-matplotlib
 requests
 python-dotenv
