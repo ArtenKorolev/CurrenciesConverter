@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk
 from typing import List
-from use_cases import InternalError
+from core import InternalError
 
 
 class TkinterWindow:

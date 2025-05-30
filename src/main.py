@@ -1,5 +1,5 @@
 from gui import TkinterWindow
-from use_cases import RatesFetcher, CurrencyConverter
+from core import RatesFetcher, CurrencyConverter
 
 
 if __name__ == '__main__':
